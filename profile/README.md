@@ -1,4 +1,4 @@
-# 界外工星 · Jiewaigongxing
+# 界外共行 · Jiewaigongxing
 
 > DNA-First full-stack code generation. Tell AI editors what you want — get a real Spring Boot backend, Vue3 admin panel, UniApp mobile app, and marketing website. All generated, all consistent, all driven by declarative **XDNA** definitions.
 
@@ -36,7 +36,6 @@ The core idea: **API is a projection of Action.** You declare entities + actions
 |---------|-----------|
 | **`jieymcp` (npm)** | Local MCP server + codegen engine. Java + Vue + UniApp + website from XDNA. Login required (`jieymcp login`). [npm](https://www.npmjs.com/package/jieymcp) |
 | **Jiey Studio** _(closed-source)_ | Desktop IDE on top of `jieymcp`. macOS / Windows / Linux. |
-| **jiewaigongxing.com platform** _(closed-source)_ | Industry knowledge base, plugin marketplace, license & telemetry — `api.jiewaigongxing.com`. Architect membership unlocks the industry vertical packs. |
 
 ## Quick start
 
@@ -72,7 +71,7 @@ The methodology is the **playbook**; the engine is the **production line**. We o
 - **Try it:** [jiewaigongxing.com](https://jiewaigongxing.com)
 - **Read the methodology:** [jiey_skill](https://github.com/jiewaigongxing/jiey_skill)
 - **Architect tier (industry packs + revenue share):** [Architect program](https://jiewaigongxing.com/developers)
-- **Contact:** dev@jiey.dev
+- **Contact:** dev@jiewaigongxing.com
 
 ---
 
