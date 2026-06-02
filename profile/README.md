@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Website-jiewaigongxing.com-2563EB)](https://jiewaigongxing.com)
 [![License](https://img.shields.io/badge/Public_skill-Apache--2.0-green)](https://github.com/jiewaigongxing/jiey_skill/blob/main/LICENSE)
-[![npm](https://img.shields.io/npm/v/jieymcp?label=jieymcp)](https://www.npmjs.com/package/jieymcp)
+[![npm](https://img.shields.io/npm/v/@jiewaigongxing/jieymcp?label=%40jiewaigongxing%2Fjieymcp)](https://www.npmjs.com/package/@jiewaigongxing/jieymcp)
 
 ---
 
@@ -34,14 +34,14 @@ The core idea: **API is a projection of Action.** You declare entities + actions
 
 | Product | What it is |
 |---------|-----------|
-| **`jieymcp` (npm)** | Local MCP server + codegen engine. Java + Vue + UniApp + website from XDNA. Login required (`jieymcp login`). [npm](https://www.npmjs.com/package/jieymcp) |
+| **`@jiewaigongxing/jieymcp` (npm)** | Local MCP server + codegen engine. Java + Vue + UniApp + website from XDNA. Login required (`jieymcp login`). [npm](https://www.npmjs.com/package/@jiewaigongxing/jieymcp) |
 | **Jiey Studio** _(closed-source)_ | Desktop IDE on top of `jieymcp`. macOS / Windows / Linux. |
 
 ## Quick start
 
 ```bash
 # 1. Install the engine
-npm install -g jieymcp
+npm install -g @jiewaigongxing/jieymcp
 
 # 2. Login (required — opens browser)
 jieymcp login
